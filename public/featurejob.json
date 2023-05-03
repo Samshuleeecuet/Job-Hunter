@@ -1,0 +1,112 @@
+{
+    "jobs": [
+      {
+        "id": 1,
+        "company_logo": "https://i.ibb.co/hcbMkXS/simform.png",
+        "job_title": "Web Developer",
+        "company_name": "Simform",
+        "remote_or_onsite": "Remote",
+        "location": "Anywhere",
+        "fulltime_or_parttime": "Full Time",
+        "salary": "$80K - $100K",
+        "job_description": "We are looking for a web developer to join our team and help us build and maintain our web applications.",
+        "job_responsibility": "Collaborate with the team to develop and maintain web applications.\n- Write clean, efficient, and well-documented code.\n- Participate in code reviews and help identify and fix bugs.\n- Work with project managers to prioritize tasks and meet project deadlines.",
+        "educational_requirements": "Bachelor's degree in Computer Science or a related field",
+        "experiences": "At least 3 years of experience in web development",
+        "contact_information": {
+          "phone": "555-1234",
+          "email": "jobs@abccompany.com"
+        }
+      },
+      {
+        "id": 2,
+        "company_logo": "https://i.ibb.co/pdR2gpV/clutch.png",
+        "job_title": "UX Designer",
+        "company_name": "Clutch",
+        "remote_or_onsite": "Onsite",
+        "location": "New York City",
+        "fulltime_or_parttime": "Part Time",
+        "salary": "$70K - $90K",
+        "job_description": "We are seeking a talented UX designer to help us design user-centered experiences for our products.",
+        "job_responsibility": "Design and deliver wireframes, prototypes, and mockups.\n- Conduct user research and testing to validate design decisions.\n- Collaborate with cross-functional teams to develop design solutions.\n- Stay up-to-date with industry trends and best practices in UX design.",
+        "educational_requirements": "Bachelor's degree in design or a related field",
+        "experiences": "At least 2 years of experience in UX design",
+        "contact_information": {
+          "phone": "555-5678",
+          "email": "jobs@xyzinc.com"
+        }
+      },
+      {
+        "id": 3,
+        "company_logo": "https://i.ibb.co/SrQxk7X/google-1-1-1.png",
+        "job_title": "Data Scientist",
+        "company_name": "Google LLC",
+        "remote_or_onsite": "Remote",
+        "location": "Germany",
+        "fulltime_or_parttime": "Full Time",
+        "salary": "$90K - $120K",
+        "job_description": "We are looking for a data scientist to help us build predictive models and perform data analysis to drive business decisions.",
+        "job_responsibility": "Collect and analyze large datasets.\n- Develop predictive models to identify trends and patterns.\n- Communicate findings to stakeholders and recommend business decisions based on data insights.\n- Work with cross-functional teams to implement data-driven solutions.",
+        "educational_requirements": "Master's or PhD in a quantitative field (e.g. Statistics, Mathematics, Computer Science)",
+        "experiences": "At least 3 years of experience in data analysis and modeling",
+        "contact_information": {
+          "phone": "555-9012",
+          "email": "jobs@123industries.com"
+        }
+      },
+      {
+        "id": 4,
+        "company_logo": "https://i.ibb.co/SrQxk7X/google-1-1-1.png",
+        "job_title": "Technical Database Engineer",
+        "company_name": "Google",
+        "remote_or_onsite": "Onsite",
+        "location": "Denmark",
+        "fulltime_or_parttime": "Part Time",
+        "salary": "$80K - $130K",
+        "job_description": "We are looking for a data scientist to help us build predictive models and perform data analysis to drive business decisions.",
+        "job_responsibility": "Collect and analyze large datasets.\n- Develop predictive models to identify trends and patterns.\n- Communicate findings to stakeholders and recommend business decisions based on data insights.\n- Work with cross-functional teams to implement data-driven solutions.",
+        "educational_requirements": "Master's or PhD in a quantitative field (e.g. Statistics, Mathematics, Computer Science)",
+        "experiences": "At least 3 years of experience in data analysis and modeling",
+        "contact_information": {
+          "phone": "555-9012",
+          "email": "jobs@123industries.com"
+        }
+      },
+      {
+        "id": 5,
+        "company_logo": "https://i.ibb.co/MCPJpsj/netflix-4-1.png",
+        "job_title": "Senior Product Designer",
+        "company_name": "Netflix",
+        "remote_or_onsite": "Remote",
+        "location": "Japan",
+        "fulltime_or_parttime": "Full Time",
+        "salary": "$85K - $115K",
+        "job_description": "We are looking for a data scientist to help us build predictive models and perform data analysis to drive business decisions.",
+        "job_responsibility": "Collect and analyze large datasets.\n- Develop predictive models to identify trends and patterns.\n- Communicate findings to stakeholders and recommend business decisions based on data insights.\n- Work with cross-functional teams to implement data-driven solutions.",
+        "educational_requirements": "Master's or PhD in a quantitative field (e.g. Statistics, Mathematics, Computer Science)",
+        "experiences": "At least 3 years of experience in data analysis and modeling",
+        "contact_information": {
+          "phone": "555-9012",
+          "email": "jobs@123industries.com"
+        }
+      },
+      {
+        "id": 6,
+        "company_logo": "https://i.ibb.co/G76c5rZ/tesla-9-1.png",
+        "job_title": "Software Engineer",
+        "company_name": "Tesla",
+        "remote_or_onsite": "Onsite",
+        "location": "USA",
+        "fulltime_or_parttime": "Full Time",
+        "salary": "$85K - $115K",
+        "job_description": "We are looking for a data scientist to help us build predictive models and perform data analysis to drive business decisions.",
+        "job_responsibility": "Collect and analyze large datasets.\n- Develop predictive models to identify trends and patterns.\n- Communicate findings to stakeholders and recommend business decisions based on data insights.\n- Work with cross-functional teams to implement data-driven solutions.",
+        "educational_requirements": "Master's or PhD in a quantitative field (e.g. Statistics, Mathematics, Computer Science)",
+        "experiences": "At least 3 years of experience in data analysis and modeling",
+        "contact_information": {
+          "phone": "555-9012",
+          "email": "jobs@123industries.com"
+        }
+      }
+    ]
+  }
